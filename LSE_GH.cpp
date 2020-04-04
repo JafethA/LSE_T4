@@ -64,7 +64,7 @@ int main(int argc, const char * argv[])
     
     
     
-    LDE A;
+    LSE A;
     int opc, dato;
     do{
         cout<<"1.- Insertar Inicio"<<endl;
